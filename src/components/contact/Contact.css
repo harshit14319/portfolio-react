@@ -52,6 +52,9 @@ input,textarea{
        grid-template-columns: 1fr;
        gap: 2rem;
    }
+   #contact{
+margin-top: 22rem;
+   }
   }
   
   @media screen and (max-width: 680px){

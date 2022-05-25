@@ -71,6 +71,11 @@ gap:15%;
   .about__me{
       width: 65%;
       margin: 0 auto 3rem;
+      margin-top: 4rem;
+
+  }
+  #about{
+      margin-top: 31rem;
   }
 }
 
