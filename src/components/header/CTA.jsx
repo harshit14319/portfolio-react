@@ -1,5 +1,5 @@
 import React from 'react'
-import h from '../../assests/h.pdf'
+import h from '../../assests/_Resume.png'
 const CTA = () => {
   return (
     <div className='cta'>
