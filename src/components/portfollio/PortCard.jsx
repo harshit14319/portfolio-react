@@ -4,9 +4,9 @@ const PortCard=(props)=>{
     <>
     <article className='portfolio__item'>
     <div className="portfolio__item-image">
-      <img src={props.img} alt='' onClick={props.link}/>
+      <img src={props.img} alt=''/>
       <h3>{props.title}</h3>
-      <a href='https://github.com' className='btn'>Github</a>
+      <a href={props.link} className='btn'>Visit</a>
     </div>
   </article>
   </>
