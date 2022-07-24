@@ -8,30 +8,42 @@ import IMG6 from '../../assests/Port6.jpg';
 const Pdata=[
 {
   img:IMG1,
-  title:"Food-Delievery Website"
+  title:"Food-Delievery Website",
+    link:'https://gym-app-five.vercel.app/'
+
 },
 {
     img:IMG2,
-    title:"Portfollio from HTML,CSS,JAVASCRIPT"
+    title:"Portfollio from HTML,CSS,JAVASCRIPT",
+    link:'https://gym-app-five.vercel.app/'
+
 
 },
 {
     img:IMG3,
-    title:"Survey Website for College"
+    title:"Survey Website for College",
+    link:'https://gym-app-five.vercel.app/'
+
 },
 {
     img:IMG4,
-    title:"Instagram Login Page"
+    title:"Instagram Login Page",
+    link:'https://gym-app-five.vercel.app/'
+
 
 },
 {
     img:IMG5,
-    title:"Weather Forecasting"
+    title:"Weather Forecasting",
+    link:'https://gym-app-five.vercel.app/'
+
 
 },
 {
     img:IMG6,
-    title:"Gym Website "
+    title:"Gym Website ",
+  link:'https://gym-app-five.vercel.app/'
+  
 },
 ]
 export default Pdata;
