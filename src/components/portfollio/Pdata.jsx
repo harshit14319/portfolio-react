@@ -9,7 +9,7 @@ const Pdata=[
 {
   img:IMG1,
   title:"Food-Delievery Website",
-    link:'https://gym-app-five.vercel.app/'
+    link:'https://harshit14319.github.io/Delivery-item/frontindex'
 
 },
 {
