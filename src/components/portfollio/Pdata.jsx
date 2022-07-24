@@ -15,7 +15,7 @@ const Pdata=[
 {
     img:IMG2,
     title:"Portfollio from HTML,CSS,JAVASCRIPT",
-    link:'https://gym-app-five.vercel.app/'
+    link:'https://harshit14319.github.io/harshit-porfollio-/login'
 
 
 },
