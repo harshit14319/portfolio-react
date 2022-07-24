@@ -14,6 +14,7 @@ const Portfollio = () => {
       <PortCard
       img={val.img}
       title={val.title}
+  link={val.link}
       />
    );
  })
